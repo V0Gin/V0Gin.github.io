@@ -1,0 +1,97 @@
+.Diver{
+    width: 100px;
+    height: 100px;
+    background: orange;
+
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+
+    padding: 5px;
+    margin-top: 40px;
+}
+
+.Dive{
+    width: 100px;
+    height: 100px;
+    background: orange;
+
+    border: 2px black solid;
+
+    padding: 10px 5px;
+    margin: auto;
+}
+
+.Divet{
+    width: 100px;
+    height: 100px;
+    background: orange;
+
+    border: 2px black solid;
+
+    padding: 5px 0px 0px 5px;
+
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.Hi{
+    color: rebeccapurple;
+    text-align: center;
+    font-size: 24px;
+}
+
+.H{
+    color: blue;
+    font-family: Cursive, arial;
+    font-size: 34px;
+    font-weight: 750;
+}
+
+.para{
+    color: brown;
+    font-family: cursive;
+    font-size: 27px;
+
+    line-height: 50px;
+    letter-spacing: 10px;
+}
+
+.para2{
+    direction: rtl;
+}
+
+.hr{
+    height: 200px;
+    width: 200px;
+    border: 2px black solid;
+
+    background-color: blueviolet;
+    background-image: url(123.jpg);
+    background-size: 200px 200px;
+    background-repeat: no-repeat;
+    background-position: 0;
+    background-attachment: scroll;
+}
+
+.link1{
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 30px;
+}
+
+.link1:hover{
+    color: aqua;
+    font-size: 40px;
+}
+
+.Div1{
+    visibility: hidden;
+}
+
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Cursive, arial;
+}
